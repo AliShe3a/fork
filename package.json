@@ -6,7 +6,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "eslint-config-defaults": "^9.0.0",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "gatsby": "next",
     "gatsby-image": "next",
     "gatsby-link": "next",
